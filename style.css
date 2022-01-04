@@ -30,8 +30,8 @@ html {
     padding: 100px;
   }
   #main-holder {
-    width: 50%;
-    height: 70%;
+    width: auto;
+    height:auto;
     display: grid;
     justify-items: center;
     align-items: center;
