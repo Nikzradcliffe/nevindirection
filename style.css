@@ -10,13 +10,13 @@ body {
   display: grid;
   justify-items: center;
   align-items: center;
-  background-color: #3a3a3a;
+  background-color: #ffffff;
 }
 
 /* Center the avatar image inside this container */
 .imgcontainer {
     text-align: center;
-    margin: 24px 0 0 0;
+    margin:50px 0 0 0;
   }
   
   /* Avatar image */
@@ -37,7 +37,7 @@ body {
     align-items: center;
     background-color: white;
     border-radius: 7px;
-    box-shadow: 0px 0px 5px 2px black;
+    box-shadow: 0px 0px 5px 2px rgb(165, 165, 165);
   }
   
   #login-error-msg-holder {
