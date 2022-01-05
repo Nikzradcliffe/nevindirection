@@ -7,7 +7,7 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "user" && password === "A") {
+    if (username === "nevin" && password === "nevin") {
         alert("You have successfully logged in.");
 
         location.href = 'https://zegus.in'
